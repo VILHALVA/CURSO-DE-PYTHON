@@ -1,5 +1,3 @@
-# CURSO-PYTHON-3
-CURSO COMPLETO DO PYTHON 3 DO CURSO EM VIDEO
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
