@@ -7,7 +7,7 @@
     <title>PYTHON 3</title>
 </head>
 <body>
-    <h1>MUNDO 1: FUNDAMENTOS</h1>
+    <h2>MUNDO 1: FUNDAMENTOS</h2>
     <p>
         &#x2705 Introdução <br>
         &#x2705 Instalando o Pycharm <br>
@@ -22,7 +22,7 @@
     </p>
     <a href="https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6.">MUNDO 1</a> 
 
-    <h1>MUNDO 2: ESTRUTURAS DE CONTROLE:</h1>
+    <h2>MUNDO 2: ESTRUTURAS DE CONTROLE:</h2>
     <p>
         &#x2705 Condicionais Aninhadas <br>
         &#x2705 Estruturas de Repetição "for" <br>
@@ -31,7 +31,7 @@
     </p>
     <a href="https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye.">MUNDO 2</a>
 
-    <h1>MUNDO 3: ESTRUTURAS COMPOSTAS:</h1>
+    <h2>MUNDO 3: ESTRUTURAS COMPOSTAS:</h2>
     <p>
         &#x2705 Variáveis Compostas: Tuplas <br>
         &#x2705 Variáveis Compostas: Listas <br>
