@@ -1,8 +1,9 @@
 # CURSO-DE-PYTHON
 👨‍⚖️CURSO COMPRETO DE PYTHON: @cursoemvideo
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-youtube-03A9F4?logo=youtube)](https://www.youtube.com/@CursoemVideo)
 
 <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" align="center" width="300">
+
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-youtube-03A9F4?logo=youtube)](https://www.youtube.com/@CursoemVideo)
 
 # [MUNDO 1: FUNDAMENTOS](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 * ✅ Introdução
