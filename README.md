@@ -1,6 +1,6 @@
 # CURSO-DE-PYTHON
 👨‍⚖️CURSO COMPRETO DE PYTHON: @cursoemvideo
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-youtube-03A9F4?logo=youtube)](https://reddit.com/submit?url=https://www.youtube.com/@CursoemVideo)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-youtube-03A9F4?logo=youtube)](https://www.youtube.com/@CursoemVideo)
 
 <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" align="center" width="300">
 
