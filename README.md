@@ -1,5 +1,6 @@
 # CURSO-DE-PYTHON
 👨‍⚖️CURSO COMPRETO DE PYTHON: @cursoemvideo
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
 
 <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" align="center" width="300">
 
