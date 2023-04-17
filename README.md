@@ -3,10 +3,6 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-YOUTUBE-03A9F4?logo=youtube)](https://www.youtube.com/@CursoemVideo) 
-[![GitHub Repo stars](https://img.shields.io/badge/CURSO%20EM%20VIDEO-GITHUB-03A9F4?logo=github)](https://github.com/cursoemvideo)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%201-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%202-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%203-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
