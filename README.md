@@ -1,7 +1,8 @@
 # CURSO-DE-PYTHON
 👨‍⚖️CURSO COMPRETO DE PYTHON.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.python.org/3/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%201-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%202-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
