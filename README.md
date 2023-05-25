@@ -10,6 +10,11 @@
 
 <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" align="center" width="280"> <br>
 
+# REQUESITOS:
+* ✅[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
+* ✅[INSTALAR O PYCHARM](https://www.jetbrains.com/pt-br/pycharm/)
+* ✅[INSTALAR O PYTHON](https://python.org.br/instalacao-windows/)
+
 # [MUNDO 1: FUNDAMENTOS](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 * ✅ Introdução
 * ✅ Instalando o Pycharm
