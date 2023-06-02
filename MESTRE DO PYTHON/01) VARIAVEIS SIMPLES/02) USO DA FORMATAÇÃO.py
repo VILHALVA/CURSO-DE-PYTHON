@@ -1,0 +1,6 @@
+nome = str(input("😎Digite seu nome:\n>>>")).strip().upper()
+print(f"👤Seu nome é {nome}")
+idade = int(input("😎Qual é sua idade?\n>>>"))
+print(f"⭐Você tem {idade} anos")
+altura = float(input("😎Qual é a sua altura?:\n>>>"))
+print(f"🔔Você tem {altura} metros de altura")
