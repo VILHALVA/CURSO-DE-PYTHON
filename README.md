@@ -9,7 +9,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%202-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%203-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
 
-<img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" align="center" width="280"> <br>
+<img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png" align="center" width="280"> <br>
 
 # REQUESITOS:
 * 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
