@@ -62,6 +62,16 @@ print("Ativo:", ativo)
 ## 02) ESTRUTURA CONDICIONAL:
 * ↪️ Uma estrutura condicional na linguagem Python, como a Python "If", "Elif", "Else", corresponde a um bloco de código que é iniciado com uma expressão para avaliar se uma determinada condição é verdadeira ou falsa. Com ele, podemos testar se uma variável é igual a zero.
 ```
+# Exemplo de estrutura condicional
+idade = 20
+
+if idade >= 18:
+    print("Você é maior de idade.")
+else:
+    print("Você é menor de idade.")
+```
+
+```
 # Exemplo de estrutura condicional mais complexa
 idade = 20
 
