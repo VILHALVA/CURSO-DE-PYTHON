@@ -141,9 +141,33 @@ print(dicionario)  # Saída: {"chave1": "valor1", "chave2": "valor2", "chave3": 
 * ↪️ As funções em Python servem para deixar o desenvolvimento de soluções digitais mais práticas, automatizadas, organizadas e dinâmicas. Isso porque elas moldam os códigos, permitindo que eles sejam reutilizados. Ou seja, quando aparece a necessidade, você não precisa repetir as mesmas instruções diversas vezes. Elas são declaradas com "def nome():". E são chamadas com "import nome" ou "from nome import sobrenome" ou "from nome import*"; Assim como "nome()". Gosto de dividir as funções em 2 CATEGORIAS:
 * ⏺️FUNÇÕES INTERNAS: São funções que você cria. Elas estão na mesma pasta do seu script principal.
 * ⏺️FUNÇÕES EXTERNAS: São funções criadas por outros (API). Elas são conhecidas como módulos (Arquivos) ou pacotes (Diretórios). Geralmente elas não estão na mesma pasta do seu script principal. Para serem usadas, elas precisam estar instaladas na sua maquina ou serem chamadas via url. A função mais famosa (Está na documentação) é o "pygame".
+```
+# Exemplo de função
+def saudacao(nome): # Função que imprime uma saudação personalizada.
+    print("Olá, " + nome + "! Bem-vindo(a)!")
+
+# Chamando a função
+saudacao("João")
+```
 
 ## 06) CLASSES:
 ↪️ As classes são semelhantes a "FUNÇÕES". A maior diferença é que você pode colocar varias funções dentro de uma mesma Classe (Assim como em única FUNÇÃO você pode colocar muitas Variaveis). É importante salientar que a Classe é referente a POO (Orientação a Objetos). Na pratica você descreve os atributos de qualquer objeto (Jogos e Web usam muito desse principio). Elas são declaradas como "class nome():" e chamadas como "nome()".
+```
+# Exemplo de classe
+class Pessoa:
+    def __init__(self, nome, idade):
+        self.nome = nome
+        self.idade = idade
+    
+    def apresentar(self):
+        print("Olá, meu nome é", self.nome, "e tenho", self.idade, "anos.")
+
+# Criando uma instância da classe
+pessoa1 = Pessoa("João", 25)
+
+# Chamando um método da classe
+pessoa1.apresentar()
+```
 
 # CARACTERISTICAS POSITIVAS:
 * 1) Sintaxe baseada em indentação: Python usa a indentação (recuo) para definir blocos de código em vez de chaves ou palavras-chave especiais. Isso significa que a estrutura do código é determinada pela quantidade de espaços ou tabulações no início de cada linha. A indentação consistente é essencial para que o código Python seja executado corretamente.
