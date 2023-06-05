@@ -108,8 +108,6 @@ for nome in nomes:
 ## 04) VARIAVEIS COMPOSTAS:
 * ↪️ Diferente da "Variavel Simples" (Uma Variavel só pode amarzenar um único dado). Na "Variavel Composta" uma unica Variavel pode armazenar varios dados (Até de Tipos diferentes). No python, temos 3 Tipos de Variaveis Compostas:
 * ⏺️ TUPLAS: São Imutaveis (Não aceitam Inputs). Elas usam parenteses ( ).
-* ⏺️ LISTAS: São Mutavéis (Aceitam Inputs). Seus dados podem ser chamados via indice númerico (Não pode personalizar). Elas usam colchetes [ ].
-* ⏺️ DICIONÁRIOS: São Mutavéis (Aceitam Inputs). Seus dados podem ser chamados via nome (Pode personalizar). Elas usam chaves { }.
 ```
 # Exemplo de tupla
 tupla = (1, "dois", 3.0, True)
@@ -121,7 +119,7 @@ print(tupla[1])  # Saída: "dois"
 # Tentativa de modificar um elemento da tupla (resultará em erro)
 tupla[0] = 10  # Erro: as tuplas são imutáveis
 ```
-
+* ⏺️ LISTAS: São Mutavéis (Aceitam Inputs). Seus dados podem ser chamados via indice númerico (Não pode personalizar). Elas usam colchetes [ ].
 ```
 # Exemplo de lista
 lista = [1, 2, 3, 4, 5]
@@ -134,7 +132,7 @@ print(lista[2])  # Saída: 3
 lista[0] = 10
 print(lista)  # Saída: [10, 2, 3, 4, 5]
 ```
-
+* ⏺️ DICIONÁRIOS: São Mutavéis (Aceitam Inputs). Seus dados podem ser chamados via nome (Pode personalizar). Elas usam chaves { }.
 ```
 # Exemplo de dicionário
 dicionario = {"chave1": "valor1", "chave2": "valor2", "chave3": "valor3"}
