@@ -89,20 +89,20 @@ else:
 ## 03) ESTRUTURA DE REPETIÇÃO:
 * ↪️ Em Python existem duas formas de criar uma estrutura de repetição: O "for" é usado quando se quer iterar sobre um bloco de código um número determinado de vezes. O "while" é usado quando queremos que o bloco de código seja repetido até que uma condição seja satisfeita.
 ```
+# Exemplo de estrutura de repetição com o comando 'for'
+nomes = ["João", "Maria", "Pedro", "Ana"]
+
+for nome in nomes:
+    print("Nome:", nome)
+```
+
+```
 # Exemplo de estrutura de repetição com o comando 'while'
 contador = 0
 
 while contador < 5:
     print("Contador:", contador)
     contador += 1
-```
-
-```
-# Exemplo de estrutura de repetição com o comando 'for'
-nomes = ["João", "Maria", "Pedro", "Ana"]
-
-for nome in nomes:
-    print("Nome:", nome)
 ```
 
 ## 04) VARIAVEIS COMPOSTAS:
