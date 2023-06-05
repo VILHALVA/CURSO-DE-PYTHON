@@ -41,8 +41,8 @@
 * ✅ TATAMENTO DE ERROS E EXCEÇÕES
 
 ![](https://i.imgur.com/waxVImv.png)
-# 🤖MESTRE-DO-PYTHON
-👨‍⚖️VISÃO PANORÂMICA DA ESTRUTURA DO PYTHON.
+# 🤳SINTAXE DA LINGUAGEM:
+👨‍⚖️VISÃO PANORÂMICA DA ESTRUTURA DO PYTHON COM O "MESTRE DO PYTHON".
 
 ## 01) VARIAVEIS SIMPLES:
 * ↪️ Variáveis em Python são lugares reservados na memória de um dispositivo para o armazenamento de dados que posteriormente vão ser usados na execução de uma solução digital. Essas variáveis podem ter formatos e tamanhos diferentes, entre outras particularidades. Podemos pensar que a memória RAM de um dispositivo é como um grande armário, que comporta diversos itens no seu interior, e esse itens são as variáveis. Quando você abre um armário, lá podem estar roupas, calçados, livros e objetos decorativos em geral. Apesar de suas diferenças, todos esses itens podem ser armazenados em um único lugar e, na medida em que são retirados do seu espaço, fica uma lacuna que pode ser preenchida por outra variável ou pela mesma. Elas são declaradas: "NOME = ATRIBUTO".
@@ -180,7 +180,8 @@ pessoa1 = Pessoa("João", 25)
 pessoa1.apresentar()
 ```
 
-# ❤CARACTERISTICAS POSITIVAS:
+# 💖CARACTERISTICAS DA LINGUAGEM:
+## ❤POSITIVAS:
 * 1 - Sintaxe baseada em indentação: Python usa a indentação (recuo) para definir blocos de código em vez de chaves ou palavras-chave especiais. Isso significa que a estrutura do código é determinada pela quantidade de espaços ou tabulações no início de cada linha. A indentação consistente é essencial para que o código Python seja executado corretamente.
 * 2 - Uso em projetos diversos: Python é amplamente utilizado em diversos tipos de projetos, como desenvolvimento web, análise de dados, automação de tarefas, inteligência artificial, aprendizado de máquina, criação de scripts e muito mais. É uma linguagem versátil que pode ser aplicada em diferentes áreas e oferece uma ampla gama de bibliotecas e frameworks especializados.
 * 3 - Ênfase na legibilidade: A sintaxe limpa e a filosofia de design do Python enfatizam a legibilidade do código. Os programadores são encorajados a escrever código claro, conciso e fácil de entender, seguindo o princípio do "Zen do Python", que enfatiza a clareza sobre a complexidade.
@@ -188,7 +189,7 @@ pessoa1.apresentar()
 * 5 - Comunidade ativa e suporte: Python tem uma comunidade grande e ativa de desenvolvedores em todo o mundo. Isso significa que há muitos recursos, fóruns de discussão, tutoriais e pacotes adicionais disponíveis para ajudar os programadores. A comunidade é conhecida por ser acolhedora e disposta a ajudar os iniciantes.
 * 6 - Multiplataforma: Python é uma linguagem multiplataforma, o que significa que os programas escritos em Python podem ser executados em vários sistemas operacionais, como Windows, macOS e Linux, sem a necessidade de grandes modificações.
 
-# 🖤CARACTERISTICAS NEGATIVAS:
+## 🖤NEGATIVAS:
 * 1 - Desempenho relativo: Comparado a algumas linguagens de programação de baixo nível, como C++ ou Rust, Python tende a ter um desempenho inferior. Isso ocorre devido à sua natureza interpretada e tipagem dinâmica, o que pode resultar em um tempo de execução mais lento em certos cenários. No entanto, vale ressaltar que a maioria das aplicações não exige um desempenho extremamente rápido, e em muitos casos, o desempenho do Python é satisfatório.
 * 2 - Gerenciamento de memória: Python utiliza um mecanismo de gerenciamento de memória automático, conhecido como "garbage collector". Embora isso seja conveniente para os desenvolvedores, pois não é necessário se preocupar com alocação e liberação manual de memória, em alguns casos, o garbage collector pode introduzir uma pequena sobrecarga e impactar no desempenho do programa.
 * 3 - Escalabilidade vertical: O Python não é considerado tão adequado para escalabilidade vertical, ou seja, para aproveitar plenamente os recursos de máquinas com múltiplos núcleos ou clusters. Isso ocorre porque o Python possui um mecanismo chamado Global Interpreter Lock (GIL), que impede que múltiplas threads executem código Python simultaneamente em paralelo. Embora existam maneiras de contornar isso (usando processos em vez de threads, por exemplo), a escalabilidade vertical não é tão natural em Python quanto em algumas outras linguagens.
