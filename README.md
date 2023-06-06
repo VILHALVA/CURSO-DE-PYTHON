@@ -41,6 +41,23 @@
 * ✅ TATAMENTO DE ERROS E EXCEÇÕES
 
 ![](https://i.imgur.com/waxVImv.png)
+# 👀VISÃO PANORÂMICA:
+| PERGUNTA | RESPOSTA |
+| :---: | :---: |
+| DATA DE CRIAÇÃO | 1991 |
+| NOME DO CRIADOR | Guido van Rossum | 
+| SIGNIFICADO DO NOME | Foi inspirado na paixão de Guido van Rossum por um programa de televisão britânico chamado "Monty Python's Flying Circus" |
+| É BASEADA NO | C C++ |
+| EXTENÇÃO DO ARQUIVO | .py |
+| É MAIS USADA | Robotica e Automação |
+
+* O Python foi criado por Guido van Rossum e seu desenvolvimento começou em dezembro de 1989. A primeira versão pública do Python, a versão 0.9.0, foi lançada em fevereiro de 1991.
+* O nome "Python" foi inspirado na paixão de Guido van Rossum por um programa de televisão britânico chamado "Monty Python's Flying Circus". Ele escolheu esse nome como uma homenagem aos comediantes do grupo Monty Python, cujo estilo de comédia ele apreciava.
+* O Python é uma linguagem de programação de alto nível, interpretada, de propósito geral e de fácil leitura e escrita. É conhecida por sua sintaxe clara e concisa, que favorece a legibilidade do código e a produtividade do programador.
+* O Python é usado em uma ampla variedade de domínios, desde o desenvolvimento web até a ciência de dados, inteligência artificial, automação de tarefas, desenvolvimento de jogos, aplicativos de desktop e muito mais. Sua popularidade se deve em parte à sua simplicidade e flexibilidade, tornando-a uma escolha atraente para iniciantes em programação e também para profissionais experientes.
+* No campo da ciência de dados e análise, o Python se tornou uma das principais linguagens de programação, graças a bibliotecas populares como NumPy, Pandas, Matplotlib e TensorFlow, que facilitam a manipulação e visualização de dados, bem como a construção de modelos de aprendizado de máquina e deep learning.
+* Em resumo, o Python foi criado por Guido van Rossum e é uma linguagem de programação de alto nível, fácil de ler e escrever. Seu nome é uma homenagem ao programa de televisão "Monty Python's Flying Circus". O Python é amplamente utilizado em diferentes áreas, desde o desenvolvimento web até a ciência de dados, inteligência artificial e automação, sendo valorizado por sua simplicidade, legibilidade e rica biblioteca de ferramentas.
+
 # 🤳SINTAXE DA LINGUAGEM:
 👨‍⚖️VISÃO PANORÂMICA DA ESTRUTURA DO PYTHON COM O "MESTRE DO PYTHON".
 
