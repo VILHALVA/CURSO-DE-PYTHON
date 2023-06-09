@@ -220,7 +220,7 @@ O programa solicita ao usuário que digite uma opção e, em seguida, verifica s
 
 Embora essa não seja uma implementação direta do `switch`, essa abordagem pode ser usada para simular um comportamento semelhante em Python.
 
-## 03) ESTRUTURA DE REPETIÇÃO:
+## 3) ESTRUTURA DE REPETIÇÃO:
 ### ESTRUTURA FOR:
 A estrutura de repetição `for` em Python é usada para iterar sobre uma sequência de elementos, como uma lista, uma string ou um intervalo numérico. A sintaxe básica do `for` em Python é a seguinte:
 ```python
