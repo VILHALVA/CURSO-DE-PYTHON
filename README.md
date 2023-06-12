@@ -15,8 +15,9 @@
 * 💻[INSTALAR O PYCHARM](https://www.jetbrains.com/pt-br/pycharm/)
 * 💻[INSTALAR O PYTHON](https://python.org.br/instalacao-windows/)
 
-# [🤠PYTHON BÁSICO](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-## [MUNDO 1: FUNDAMENTOS](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+# 🤠TEMÁTICAS:
+## [PYTHON BÁSICO](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+### [MUNDO 1: FUNDAMENTOS](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 * ✅ INSTALANDO O PYCHARM
 * ✅ PRIMEIROS COMANDOS
 * ✅ CONHECENDO O INPUT
@@ -27,13 +28,13 @@
 * ✅ OPERAÇÕES DE STRINGS
 * ✅ CORES NO CONSOLE
 
-## [MUNDO 2: ESTRUTURAS DE CONTROLE](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+### [MUNDO 2: ESTRUTURAS DE CONTROLE](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 * ✅ CONDICIONAIS ANINHADAS
 * ✅ ESTRUTURAS DE REPETIÇÃO "FOR"
 * ✅ ESTRUTURAS DE REPETIÇÃO "WHILE"
 * ✅ INTERROPENDO REPETIÇÕES
 
-## [MUNDO 3: ESTRUTURAS COMPOSTAS](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+### [MUNDO 3: ESTRUTURAS COMPOSTAS](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
 * ✅ VARIÁVEIS COMPOSTAS: TUPLAS
 * ✅ VARIÁVEIS COMPOSTAS: LISTAS
 * ✅ VARIÁVEIS COMPOSTAS: DICIONÁRIOS
@@ -41,7 +42,7 @@
 * ✅ MÓDULOS E PACOTES
 * ✅ TATAMENTO DE ERROS E EXCEÇÕES
 
-# [🧨PYTHON POO](https://github.com/VILHALVA)
+## [PYTHON POO](https://github.com/VILHALVA)
 * ✅ CLASSES E OBJETOS
 * ✅ CONFIGURANDO VISIBILIDADE
 * ✅ METODOS GSC
