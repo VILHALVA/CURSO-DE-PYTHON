@@ -51,6 +51,10 @@
 * ✅ HERANÇA
 * ✅ POLIMORFISMO
 
+# 📹VIDEOS DO YOUTUBE:
+* [CRIANDO LISTA DE IMPARES E PARES PYTHON](https://youtu.be/p1Cgv0oK09s?si=cfUucxX7necwzIK1)
+* [CRIANDO CLASS POO EM UM JANTAR PYTHON](https://youtu.be/P7yyHgyuhQw?si=AxIBPp8k47RCXcB1)
+
 ![](https://i.imgur.com/waxVImv.png)
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
