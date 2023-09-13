@@ -8,6 +8,8 @@
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%202-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%203-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
 
+[![GitHub Repo stars](https://img.shields.io/badge/PYTHON-POO-03A9F4?logo=youtube)](https://youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7&si=Gk1d6AAfShKbN1Oi) <br>
+
 <img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png" align="center" width="280"> <br>
 
 # 🤖REQUESITOS:
