@@ -13,7 +13,7 @@
 <img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png" align="center" width="280"> <br>
 
 # 🤖REQUESITOS:
-* 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-ALGORITMO)
+* 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PORTUGOL)
 * 💻[INSTALAR O PYCHARM](https://www.jetbrains.com/pt-br/pycharm/)
 * 💻[INSTALAR O PYTHON](https://python.org.br/instalacao-windows/)
 
