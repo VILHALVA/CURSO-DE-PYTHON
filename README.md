@@ -2,67 +2,19 @@
 👨‍⚖️CURSO COMPRETO DE PYTHON.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=python)
+
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.python.org/3/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%201-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%202-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
-[![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%203-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
-
-[![GitHub Repo stars](https://img.shields.io/badge/PYTHON-POO-03A9F4?logo=youtube)](https://youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7&si=Gk1d6AAfShKbN1Oi) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%203-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) 
+[![GitHub Repo stars](https://img.shields.io/badge/-PYTHON%20POO-green)](https://youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7&si=Gk1d6AAfShKbN1Oi) <br>
 
 <img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png" align="center" width="280"> <br>
 
-# 🤖REQUESITOS:
-* 🤯[SABER LÓGICA DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PORTUGOL)
-* 💻[INSTALAR O PYCHARM](https://www.jetbrains.com/pt-br/pycharm/)
-* 💻[INSTALAR O PYTHON](https://python.org.br/instalacao-windows/)
-
-# 🤠TEMÁTICAS:
-## [PYTHON BÁSICO](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-### [MUNDO 1: FUNDAMENTOS](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-* ✅ INSTALANDO O PYCHARM
-* ✅ PRIMEIROS COMANDOS
-* ✅ CONHECENDO O INPUT
-* ✅ VARIÁVEIS SIMPLES
-* ✅ ESTRUTURAS CONDICIONAIS SIMPLES
-* ✅ OPERADORES ARITMÉTICAS
-* ✅ UTILIZANDO MÓDULOS
-* ✅ OPERAÇÕES DE STRINGS
-* ✅ CORES NO CONSOLE
-
-### [MUNDO 2: ESTRUTURAS DE CONTROLE](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
-* ✅ CONDICIONAIS ANINHADAS
-* ✅ ESTRUTURAS DE REPETIÇÃO "FOR"
-* ✅ ESTRUTURAS DE REPETIÇÃO "WHILE"
-* ✅ INTERROPENDO REPETIÇÕES
-
-### [MUNDO 3: ESTRUTURAS COMPOSTAS](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
-* ✅ VARIÁVEIS COMPOSTAS: TUPLAS
-* ✅ VARIÁVEIS COMPOSTAS: LISTAS
-* ✅ VARIÁVEIS COMPOSTAS: DICIONÁRIOS
-* ✅ FUNÇÕES
-* ✅ MÓDULOS E PACOTES
-* ✅ TATAMENTO DE ERROS E EXCEÇÕES
-
-## [PYTHON POO](https://youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7&si=Gk1d6AAfShKbN1Oi)
-* ✅ CLASSES E OBJETOS
-* ✅ METODOS DE CLASS
-* ✅ METODOS ESTATICOS
-* ✅ GETTERS E SETTERS
-* ✅ ATRIBUTOS DE CLASS
-* ✅ ENCAPSULAMENTO
-* ✅ ASSOCIAÇÃO
-* ✅ AGREGAÇÃO
-* ✅ COMPOSIÇÃO
-* ✅ HERANÇA
-* ✅ DATACLASSES
-* ✅ METACLASSES
-
-# 📹VIDEOS DO YOUTUBE:
-* [CRIANDO LISTA DE IMPARES E PARES PYTHON](https://youtu.be/p1Cgv0oK09s?si=cfUucxX7necwzIK1)
-* [CRIANDO CLASS POO EM UM JANTAR PYTHON](https://youtu.be/P7yyHgyuhQw?si=AxIBPp8k47RCXcB1)
-
 ![](https://i.imgur.com/waxVImv.png)
+
 # 👀VISÃO PANORÂMICA:
 | PERGUNTA | RESPOSTA |
 | :---: | :---: |
