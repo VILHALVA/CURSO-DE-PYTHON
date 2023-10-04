@@ -1,4 +1,4 @@
-# CURSO-DE-PYTHON
+# CURSO DE PYTHON
 👨‍⚖️PYTHON É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
