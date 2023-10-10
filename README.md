@@ -9,6 +9,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%201-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%202-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 [![GitHub Repo stars](https://img.shields.io/badge/-MUNDO%203-green)](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) 
+[![GitHub Repo stars](https://img.shields.io/badge/-DESAFIOS-green)](https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&si=-2leyTBnhvYCnUHv)
 [![GitHub Repo stars](https://img.shields.io/badge/-PYTHON%20POO-green)](https://youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7&si=Gk1d6AAfShKbN1Oi) <br>
 
 <img src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png" align="center" width="280"> <br>
