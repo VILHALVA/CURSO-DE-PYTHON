@@ -54,7 +54,7 @@ Desde então, o Python 3 continuou a ser desenvolvido e aprimorado, enquanto o P
 - ["PYTHON BASICO" FOI CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
   - [MUNDO 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
   - [MUNDO 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
-  - [MUNDO 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+  - [MUNDO 3](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&si=NZA29z4_TvSfckFL)
   - [DESAFIOS](https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&si=-2leyTBnhvYCnUHv)
 - ["PYTHON POO" FOI CRIADO PELO "OTÁVIO MIRANDA"](https://youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7&si=Gk1d6AAfShKbN1Oi)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
