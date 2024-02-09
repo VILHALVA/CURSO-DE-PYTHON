@@ -51,13 +51,13 @@ Desde então, o Python 3 continuou a ser desenvolvido e aprimorado, enquanto o P
 * **4 - Poucas vagas específicas de trabalho:** Em comparação com algumas linguagens mais especializadas ou voltadas para domínios específicos, como C++ para desenvolvimento de jogos ou Java para desenvolvimento corporativo, Python pode ter menos vagas específicas disponíveis. No entanto, é importante notar que Python é usado em uma ampla variedade de setores e domínios, o que significa que ainda há muitas oportunidades para programadores Python em geral.
 
 ## SUBSIDIOS:
-- ["PYTHON BASICO" FOI CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
   - [MUNDO 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
   - [MUNDO 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
   - [MUNDO 3](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&si=NZA29z4_TvSfckFL)
   - [DESAFIOS](https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-&si=-2leyTBnhvYCnUHv)
-- ["PYTHON POO" FOI CRIADO PELO "OTÁVIO MIRANDA"](https://youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7&si=Gk1d6AAfShKbN1Oi)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.python.org/3/)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [CURSO DE PYTHON POO](https://github.com/VILHALVA/CURSO-DE-PYTHON-POO)
 - [SE TORNE O MESTRE DO PYTHON](https://github.com/VILHALVA/MESTRE-DO-PYTHON)
