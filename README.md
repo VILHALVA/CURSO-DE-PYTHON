@@ -61,3 +61,4 @@ Desde então, o Python 3 continuou a ser desenvolvido e aprimorado, enquanto o P
 - [VEJA A SINTAXE](./SINTAXE.md)
 - [CURSO DE PYTHON POO](https://github.com/VILHALVA/CURSO-DE-PYTHON-POO)
 - [SE TORNE O MESTRE DO PYTHON](https://github.com/VILHALVA/MESTRE-DO-PYTHON)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON)
