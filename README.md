@@ -51,7 +51,7 @@ Desde então, o Python 3 continuou a ser desenvolvido e aprimorado, enquanto o P
 * **4 - Poucas vagas específicas de trabalho:** Em comparação com algumas linguagens mais especializadas ou voltadas para domínios específicos, como C++ para desenvolvimento de jogos ou Java para desenvolvimento corporativo, Python pode ter menos vagas específicas disponíveis. No entanto, é importante notar que Python é usado em uma ampla variedade de setores e domínios, o que significa que ainda há muitas oportunidades para programadores Python em geral.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/@CursoemVideo)
+- [CURSO CRIADO PELO "CURSO EM VIDEO":](https://www.youtube.com/c/CursoemV%C3%ADdeo)
   - [MUNDO 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
   - [MUNDO 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
   - [MUNDO 3](https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&si=NZA29z4_TvSfckFL)
