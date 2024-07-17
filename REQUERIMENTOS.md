@@ -2,28 +2,36 @@
 O arquivo `requirements.txt` é usado para listar todas as dependências (pacotes) de um projeto Python. Isso facilita a instalação de todas as dependências em um novo ambiente ou para outros desenvolvedores que estejam trabalhando no mesmo projeto.
 
 ## 1. CRIAR UM AMBIENTE VIRTUAL:
-Um ambiente virtual permite criar um ambiente isolado para o seu projeto Python, onde você pode instalar pacotes sem afetar o sistema global ou outros projetos.
+1. **Crie o ambiente virtual:**
+   Você pode instalar o `virtualenv` usando o `pip`, que é o gerenciador de pacotes do Python.
 
-1. **Instale o `virtualenv` (se ainda não tiver instalado):**
-   ```bash
+   Para instalar o `virtualenv`, você pode executar o seguinte comando:
+
+   ```
    pip install virtualenv
    ```
 
-2. **Crie um novo ambiente virtual:**
-   ```bash
+   Depois de instalar o `virtualenv`, você pode criar um novo ambiente virtual com o seguinte comando:
+
+   ```
    virtualenv venv
    ```
-   Aqui, `venv` é o nome do diretório onde o ambiente virtual será criado. Você pode escolher qualquer nome.
 
-3. **Ative o ambiente virtual:**
-   - No Linux/MacOS:
-     ```bash
-     source venv/bin/activate
-     ```
+   Se quiser, você pode substituir "venv" pelo nome que você deseja dar ao seu ambiente virtual (Não se esqueça de atualizar o `.gitignore`). Em seguida, você pode ativar o ambiente virtual com os seguintes comandos:
+
    - No Windows:
-     ```bash
-     .\venv\Scripts\activate
-     ```
+
+   ```
+   venv\Scripts\activate
+   ```
+
+   - No Linux/Mac:
+
+   ```
+   source venv/bin/activate
+   ```
+
+   Uma vez ativado o ambiente virtual, você pode tentar instalar os pacotes necessários usando o `pip`, e eles serão instalados apenas no escopo do ambiente virtual, evitando possíveis conflitos com outros pacotes no seu sistema.
 
 ## 2. INSTALAR PACOTES E ADICIONÁ-LOS AO `REQUIREMENTS.TXT`:
 1. **Instale os pacotes necessários para o seu projeto:**
