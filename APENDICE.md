@@ -58,7 +58,7 @@ O `pyenv` é uma ferramenta que funciona de forma muito semelhante ao `nvm` (Nod
    - O `pyenv` trabalha bem com ferramentas como o `poetry`, que gerenciam dependências e ambientes virtuais. Depois de definir a versão do Python com `pyenv`, você pode usar o `poetry` para gerenciar as dependências do projeto nessa versão específica do Python.
 
 ## GERENCIANDO DEPENDÊNCIAS COM `poetry`:
-### CONCEITOS:
+### CONCEITO:
 O `poetry` é uma ferramenta moderna para gerenciamento de dependências e empacotamento de projetos Python. Ele simplifica o processo de criação e manutenção de ambientes virtuais, instalação de pacotes, e gerenciamento de dependências, tornando o desenvolvimento em Python mais eficiente e organizado.
 
 1. **Gerenciamento de Dependências**:
