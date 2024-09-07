@@ -15,6 +15,12 @@
    virtualenv venv
    ```
 
+   Ou:
+
+   ```
+   python -m venv venv
+   ```
+
    Se quiser, você pode substituir "venv" pelo nome que você deseja dar ao seu ambiente virtual (Não se esqueça de atualizar o `.gitignore`). Em seguida, você pode ativar o ambiente virtual com os seguintes comandos:
 
    - No Windows:
