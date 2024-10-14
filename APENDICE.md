@@ -37,6 +37,8 @@
 
    Uma vez ativado o ambiente virtual, você pode tentar instalar os pacotes necessários usando o `pip`, e eles serão instalados apenas no escopo do ambiente virtual, evitando possíveis conflitos com outros pacotes no seu sistema.
 
+---
+
 ## GERECIANDO MULTIPLAS VERSÕES DO PYTHON:
 O `pyenv` é uma ferramenta que funciona de forma muito semelhante ao `nvm` (Node Version Manager) e ao `volta`, mas para a linguagem Python. Ele permite que você gerencie múltiplas versões do interpretador Python no seu sistema, facilitando a instalação, troca, e uso de diferentes versões de Python em diferentes projetos.
 
@@ -62,6 +64,8 @@ O `pyenv` é uma ferramenta que funciona de forma muito semelhante ao `nvm` (Nod
 
 3. **Compatibilidade com Ferramentas**:
    - O `pyenv` trabalha bem com ferramentas como o `poetry`, que gerenciam dependências e ambientes virtuais. Depois de definir a versão do Python com `pyenv`, você pode usar o `poetry` para gerenciar as dependências do projeto nessa versão específica do Python.
+
+---
 
 ## GERENCIANDO DEPENDÊNCIAS COM `poetry`:
 ### CONCEITO:
@@ -119,6 +123,8 @@ build-backend = "poetry.core.masonry.api"
 - **`poetry run <comando>`**: Executa um comando no contexto do ambiente virtual.
 - **`poetry shell`**: Entra no ambiente virtual do projeto.
 
+---
+
 ## INSTALAR PACOTES E ADICIONÁ-LOS AO `REQUIREMENTS.TXT`:
 1. **Instale os pacotes necessários para o seu projeto:**
    ```bash
@@ -133,6 +139,8 @@ build-backend = "poetry.core.masonry.api"
    ```bash
    pip freeze > requirements.txt
    ```
+
+---
 
 ## INSTALAR DEPENDÊNCIAS A PARTIR DO `REQUIREMENTS.TXT`:
 Para instalar todas as dependências listadas no `requirements.txt` em um novo ambiente ou em um ambiente existente, siga estes passos:
