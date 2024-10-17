@@ -1,0 +1,103 @@
+import os
+from time import sleep
+
+class Usuario:
+    def __init__(self, nome, idade):
+        self.nome = nome
+        self.idade = idade
+
+class GerenciadorUsuarios:
+    def __init__(self):
+        self.arquivo = os.path.join(os.path.dirname(__file__), 'usuarios.txt')
+        if not os.path.exists(self.arquivo):
+            with open(self.arquivo, 'w'):
+                pass  
+
+    def adicionar_usuario(self, nome, idade):
+        with open(self.arquivo, 'a') as f:
+            f.write(f"{nome},{idade}\n")
+        print("😎USUÁRIO ADICIONADO COM SUCESSO!")
+
+    def listar_usuarios(self):
+        if os.path.exists(self.arquivo):
+            with open(self.arquivo, 'r') as f:
+                print("=" *100)
+                print("LISTA DE USUÁRIOS:")
+                print("-" *100)
+                for linha in f:
+                    nome, idade = linha.strip().split(',')
+                    print("*" *100)
+                    print(f"NOME: {nome}, IDADE: {idade}")
+                    print("*" *100)
+                print("=" *100)
+        else:
+            print("😒NENHUM USUÁRIO CADASTRADO.")
+
+    def atualizar_usuario(self, nome_antigo, novo_nome, nova_idade):
+        with open(self.arquivo, 'r') as f:
+            linhas = f.readlines()
+
+        with open(self.arquivo, 'w') as f:
+            for linha in linhas:
+                nome, idade = linha.strip().split(',')
+                if nome == nome_antigo:
+                    f.write(f"{novo_nome},{nova_idade}\n")
+                    print("😙USUÁRIO ATUALIZADO COM SUCESSO!")
+                else:
+                    f.write(f"{nome},{idade}\n")
+
+    def excluir_usuario(self, nome):
+        with open(self.arquivo, 'r') as f:
+            linhas = f.readlines()
+
+        with open(self.arquivo, 'w') as f:
+            excluido = False
+            for linha in linhas:
+                nome_usuario, idade = linha.strip().split(',')
+                if nome_usuario != nome:
+                    f.write(f"{nome_usuario},{idade}\n")
+                else:
+                    excluido = True
+            if excluido:
+                print("🗑USUÁRIO EXCLUÍDO COM SUCESSO!")
+            else:
+                print("😟USUÁRIO NÃO ENCONTRADO.")
+
+def exibir_menu():
+    print("\nMENU:")
+    print("1. ADICIONAR USUÁRIO")
+    print("2. LISTAR USUÁRIOS")
+    print("3. ATUALIZAR USUÁRIO")
+    print("4. EXCLUIR USUÁRIO")
+    print("5. SAIR")
+
+def main():
+    gerenciador = GerenciadorUsuarios()
+
+    while True:
+        exibir_menu()
+        opcao = input("😎ESCOLHA UMA OPÇÃO:\n>>>")
+
+        if opcao == "1":
+            nome = input("😎DIGITE O NOME:\n>>>")
+            idade = input("😎DIGITE A IDADE:\n>>>")
+            gerenciador.adicionar_usuario(nome, idade)
+        elif opcao == "2":
+            gerenciador.listar_usuarios()
+        elif opcao == "3":
+            nome_antigo = input("😎DIGITE O NOME A SER ATUALIZADO:\n>>>")
+            novo_nome = input("😎DIGITE O NOVO NOME:\n>>>")
+            nova_idade = input("😎DIGITE A NOVA IDADE:\n>>>")
+            gerenciador.atualizar_usuario(nome_antigo, novo_nome, nova_idade)
+        elif opcao == "4":
+            nome = input("😎DIGITE O NOME DO USUÁRIO A SER EXCLUÍDO:\n>>>")
+            gerenciador.excluir_usuario(nome)
+        elif opcao == "5":
+            print("🚀SAINDO...")
+            sleep(3)
+            break
+        else:
+            print("😡OPÇÃO INVÁLIDA. TENTE NOVAMENTE!")
+
+if __name__ == "__main__":
+    main()
