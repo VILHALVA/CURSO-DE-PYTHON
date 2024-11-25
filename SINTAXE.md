@@ -126,7 +126,7 @@ Depois disso, a estrutura condicional `if-else` avalia se a idade inserida é ma
 A estrutura `if-else` é muito útil para executar diferentes blocos de código dependendo de uma condição específica. Ela permite que você controle o fluxo do programa com base em determinadas circunstâncias.
 
 ### ESTRUTURA SWITCH:
-A partir do Python 3.10, foi introduzido o **Structural Pattern Matching**, que permite a utilização de uma estrutura semelhante ao `switch case`. O recurso utiliza a palavra-chave `match` e é bastante flexível, permitindo padrões simples ou complexos.
+A partir do [Python 3.10](https://docs.python.org/3/whatsnew/3.10.html), foi introduzido o **Structural Pattern Matching**, que permite a utilização de uma estrutura semelhante ao `switch case`. O recurso utiliza a palavra-chave `match` e é bastante flexível, permitindo padrões simples ou complexos.
 
 Aqui está um exemplo que simula uma funcionalidade semelhante ao `switch` para retornar mensagens baseadas no dia da semana:
 
