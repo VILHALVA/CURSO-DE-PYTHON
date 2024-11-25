@@ -64,6 +64,39 @@ else:
     print("Menor de idade")
 ```
 
+## **Switch case:**
+A partir do Python 3.10, foi introduzida a **Structural Pattern Matching**, que permite algo semelhante ao `switch case` em outras linguagens. O recurso usa a palavra-chave `match`. Aqui está um exemplo simples para ilustrar:
+
+```python
+def saudacao(dia):
+    match dia:
+        case "segunda":
+            return "Começando a semana com tudo!"
+        case "terça":
+            return "Segunda já passou, força!"
+        case "quarta":
+            return "Metade da semana, continue firme!"
+        case "quinta":
+            return "Quase lá!"
+        case "sexta":
+            return "Sextou! 🎉"
+        case "sábado" | "domingo":
+            return "Aproveite o fim de semana!"
+        case _:
+            return "Dia inválido!"
+
+# Exemplo de uso
+dia = "quarta"
+print(saudacao(dia))  # Saída: Metade da semana, continue firme!
+```
+
+1. **`match`** é a nova estrutura que substitui a ideia de um `switch`.
+2. **`case`** define os padrões a serem comparados.
+3. O padrão especial `_` funciona como o "default", ou seja, é usado quando nenhum dos casos anteriores é correspondido.
+4. É possível combinar valores no mesmo caso, como no exemplo `"sábado" | "domingo"`. 
+
+Esse recurso é poderoso e pode ser usado não apenas para igualdade, mas também para padrões mais complexos, como desempacotamento de estruturas.
+
 ## **Considerações Importantes:**
 - A indentação é crucial em Python. O código dentro de um bloco condicional deve ser indentado corretamente para ser reconhecido como parte desse bloco.
 - Você pode usar operadores lógicos como `and`, `or` e `not` para criar condições mais complexas.
