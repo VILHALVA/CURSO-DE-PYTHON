@@ -126,38 +126,36 @@ Depois disso, a estrutura condicional `if-else` avalia se a idade inserida é ma
 A estrutura `if-else` é muito útil para executar diferentes blocos de código dependendo de uma condição específica. Ela permite que você controle o fluxo do programa com base em determinadas circunstâncias.
 
 ### ESTRUTURA SWITCH:
-Em Python, não existe uma construção de linguagem chamada `switch` como em algumas outras linguagens de programação. No entanto, você pode simular um comportamento semelhante usando um dicionário. Aqui está um exemplo:
+A partir do Python 3.10, foi introduzido o **Structural Pattern Matching**, que permite a utilização de uma estrutura semelhante ao `switch case`. O recurso utiliza a palavra-chave `match` e é bastante flexível, permitindo padrões simples ou complexos.
+
+Aqui está um exemplo que simula uma funcionalidade semelhante ao `switch` para retornar mensagens baseadas no dia da semana:
+
 ```python
-def opcao1():
-    print("Opção 1 selecionada.")
-
-def opcao2():
-    print("Opção 2 selecionada.")
-
-def opcao3():
-    print("Opção 3 selecionada.")
-
-# Dicionário que mapeia as opções aos respectivos blocos de código
-opcoes = {
-    1: opcao1,
-    2: opcao2,
-    3: opcao3
-}
+def saudacao(dia):
+    match dia:
+        case 1 | 7:
+            return "FIM DE SEMANA. DOMINGO OU SÁBADO"
+        case 2:
+            return "SEGUNDA-FEIRA"
+        case 3:
+            return "TERÇA-FEIRA"
+        case 4:
+            return "QUARTA-FEIRA"
+        case 5:
+            return "QUINTA-FEIRA"
+        case 6:
+            return "SEXTA-FEIRA"
+        case _:
+            return "DIA INVÁLIDO!"
 
 # Exemplo de uso
-opcao = int(input("Digite a opção desejada: "))
-
-# Verifica se a opção existe no dicionário e chama a função correspondente
-if opcao in opcoes:
-    opcoes[opcao]()
-else:
-    print("Opção inválida.")
+dia = 1
+print(saudacao(dia))  # Saída: FIM DE SEMANA. DOMINGO OU SÁBADO
 ```
-Nesse exemplo, temos um dicionário `opcoes` que mapeia valores inteiros (opções) às respectivas funções que devem ser executadas quando uma opção é selecionada.
 
-O programa solicita ao usuário que digite uma opção e, em seguida, verifica se a opção está presente no dicionário `opcoes`. Se estiver, a função correspondente é chamada utilizando a sintaxe `opcoes[opcao]()`. Caso contrário, é exibida uma mensagem de "Opção inválida".
-
-Embora essa não seja uma implementação direta do `switch`, essa abordagem pode ser usada para simular um comportamento semelhante em Python.
+1. A palavra-chave **`match`** funciona como um ponto de decisão, onde o valor fornecido (`dia`) é comparado com os padrões especificados em cada **`case`**.
+2. O operador **`|`** é usado para combinar múltiplos valores em um único padrão. No exemplo, `1 | 7` equivale a "domingo ou sábado".
+3. O **`case _`** age como um **"default"**, capturando todos os valores que não correspondem aos padrões anteriores.
 
 ## 3) ESTRUTURA DE REPETIÇÃO:
 ### ESTRUTURA FOR:
