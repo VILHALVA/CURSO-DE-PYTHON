@@ -65,7 +65,7 @@ else:
 ```
 
 ## **Switch case:**
-A partir do Python 3.10, foi introduzida a **Structural Pattern Matching**, que permite algo semelhante ao `switch case` em outras linguagens. O recurso usa a palavra-chave `match`. Aqui está um exemplo simples para ilustrar:
+A partir do [Python 3.10](https://docs.python.org/3/whatsnew/3.10.html), foi introduzida a **Structural Pattern Matching**, que permite algo semelhante ao `switch case` em outras linguagens. O recurso usa a palavra-chave `match`. Aqui está um exemplo simples para ilustrar:
 
 ```python
 def saudacao(dia):
