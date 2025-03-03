@@ -40,30 +40,113 @@
 ---
 
 ## GERECIANDO MULTIPLAS VERSÕES DO PYTHON:
-O `pyenv` é uma ferramenta que funciona de forma muito semelhante ao `nvm` (Node Version Manager) e ao `volta`, mas para a linguagem Python. Ele permite que você gerencie múltiplas versões do interpretador Python no seu sistema, facilitando a instalação, troca, e uso de diferentes versões de Python em diferentes projetos.
+O `pyenv` é uma ferramenta que permite gerenciar múltiplas versões do interpretador Python no seu sistema. Ele funciona de forma semelhante ao `nvm` (Node Version Manager) e ao `volta`, mas para Python, facilitando a instalação, troca e uso de diferentes versões em projetos distintos.  
 
-1. **Instalação de Múltiplas Versões do Python**:
-   - Com o `pyenv`, você pode instalar diferentes versões do Python, desde versões antigas até as mais recentes, e até mesmo versões específicas como Anaconda, PyPy, ou versões específicas de desenvolvimento.
-   - Comandos típicos incluem:
-     ```bash
-     pyenv install 3.9.1
-     pyenv install 3.10.4
-     ```
+1. **Instalando o `pyenv` no Windows**:  
+O `pyenv` não é instalado diretamente via `pip`. No Windows, a instalação pode ser feita via o repositório oficial do `pyenv-win`:  
 
-2. **Troca entre Versões**:
-   - O `pyenv` permite que você troque entre diferentes versões do Python globalmente, por usuário, ou até mesmo em nível de diretório/projeto.
-   - Para definir uma versão global:
-     ```bash
-     pyenv global 3.9.1
-     ```
-   - Para definir uma versão para o diretório atual (projeto):
-     ```bash
-     pyenv local 3.10.4
-     ```
-   - Isso cria um arquivo `.python-version` no diretório do projeto, que indica ao `pyenv` qual versão do Python usar naquele contexto.
+   1. **Baixar e instalar o `pyenv-win`**  
+      Abra o PowerShell como administrador e execute:  
+      ```powershell
+      Invoke-WebRequest -UseBasicParsing -Uri https://pyenv.run | Invoke-Expression
+      ```  
+      Isso instalará o `pyenv`, `pyenv-doctor`, `pyenv-win`, e `pyenv-update`.
 
-3. **Compatibilidade com Ferramentas**:
-   - O `pyenv` trabalha bem com ferramentas como o `poetry`, que gerenciam dependências e ambientes virtuais. Depois de definir a versão do Python com `pyenv`, você pode usar o `poetry` para gerenciar as dependências do projeto nessa versão específica do Python.
+   2. **Adicionar `pyenv` ao PATH**  
+      Se o instalador automático não configurar corretamente o ambiente, faça manualmente:  
+      - **Abra as Variáveis de Ambiente**  
+      - No Windows, pesquise por **"Variáveis de Ambiente"** e abra.  
+      - **Adicione os seguintes caminhos ao `PATH` do sistema ou do usuário**:
+      ```
+      C:\pyenv\pyenv-win\bin
+      C:\pyenv\pyenv-win\shims
+      ```
+      - Reinicie o terminal após isso.
+
+   3. **Verificar se a instalação foi bem-sucedida**  
+      ```sh
+      pyenv --version
+      ```
+
+2. **Instalando e Gerenciando Múltiplas Versões do Python**:
+Com o `pyenv`, você pode instalar diferentes versões do Python, incluindo versões antigas, recentes, Anaconda, PyPy e versões específicas de desenvolvimento.  
+
+- Para listar versões disponíveis:  
+  ```sh
+  pyenv install --list
+  ```
+- Para instalar versões específicas:  
+  ```sh
+  pyenv install 3.9.1
+  pyenv install 3.10.4
+  ```
+
+3. **Alternando Entre Versões do Python**:
+O `pyenv` permite definir qual versão do Python será usada de três formas:  
+
+- **Globalmente** (para todo o sistema):  
+  ```sh
+  pyenv global 3.9.1
+  ```
+- **Por usuário** (padrão para o usuário atual):  
+  ```sh
+  pyenv shell 3.10.4
+  ```
+- **Por diretório/projeto** (criando um arquivo `.python-version`):  
+  ```sh
+  pyenv local 3.10.4
+  ```
+
+Isso garante que projetos diferentes utilizem versões de Python compatíveis sem conflitos.
+
+4. **Atualizando e Desinstalando o `pyenv`**:
+- Para atualizar o `pyenv`:  
+  ```sh
+  pyenv update
+  ```
+- Para desinstalar o `pyenv-win`, basta remover as pastas `C:\pyenv\pyenv-win` e limpar as variáveis de ambiente adicionadas.
+
+---
+
+## USANDO O `pyenv` NO AMBIENTE VIRTUAL:
+1. **Instalar o `pyenv` (se ainda não tiver)** : 
+Se ainda não instalou o `pyenv-win`, siga o guia oficial:  
+🔗 [https://github.com/pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)  
+
+2. **Instalar a versão desejada do Python**: 
+Verifique quais versões estão disponíveis:  
+```sh
+pyenv install --list
+```  
+Instale a versão específica (exemplo: 3.10.0):  
+```sh
+pyenv install 3.10.0
+```  
+
+3. **Criar um ambiente virtual com essa versão**: 
+Execute o comando abaixo no terminal:  
+```sh
+"C:\pyenv\pyenv-win\versions\3.10.0\python.exe" -m venv venv
+```  
+Isso criará um ambiente virtual na pasta `venv` usando o Python 3.10.0.  
+
+4. **Ativar o ambiente virtual**:  
+- No **CMD** ou **PowerShell**:
+  ```sh
+  venv\Scripts\activate
+  ```  
+- No **Git Bash**:
+  ```sh
+  source venv/Scripts/activate
+  ```  
+
+5. **Verificar a versão do Python**:  
+Após ativar o ambiente, confirme a versão usada:  
+```sh
+python --version
+```  
+
+Isso garante que o ambiente virtual está rodando com o Python instalado via `pyenv`. 🚀
 
 ---
 
