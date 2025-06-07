@@ -220,7 +220,7 @@ Vamos analisar por partes:
     [Icons]
     Name: "{autoprograms}\APLICATIVO"; Filename: "{app}\APLICATIVO.exe"
     Name: "{autodesktop}\APLICATIVO"; Filename: "{app}\APLICATIVO.exe"; Tasks: desktopicon
-```
+    ```
 
 * `[Run]:`
     * Executa o programa ao final da instalação (se o usuário quiser):
