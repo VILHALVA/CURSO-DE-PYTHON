@@ -63,4 +63,5 @@ Desde então, o Python 3 continuou a ser desenvolvido e aprimorado, enquanto o P
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA O APÊNDICE](./APENDICE.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [CRIE APLICATIVOS](./APLICATIVOS.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON)
