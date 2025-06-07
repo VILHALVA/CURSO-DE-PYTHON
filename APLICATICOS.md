@@ -227,7 +227,7 @@ Vamos analisar por partes:
 
     ```ini
     Filename: "{app}\APLICATIVO.exe"; Flags: nowait postinstall skipifsilent
-```
+    ```
 
 * **Resumo do que esse instalador faz:**
     * Instala o `APLICATIVO.exe` na pasta `Arquivos de Programas\APLICATIVO`.
