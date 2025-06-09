@@ -88,8 +88,6 @@ Vamos destrinchar o conteúdo e explicar cada parte:
     pyinstaller EXECUTAVEL.spec
     ```
 
----
-
 ## USANDO O `INSTALADOR.iss` DO `INNO SETUP COPILER`:
 ```ini
 #define MyAppName "APLICATIVO" 
@@ -237,4 +235,7 @@ Vamos analisar por partes:
     * Funciona apenas em sistemas 64 bits.
     * Comprime o instalador usando LZMA.
 
+## SUBSÍDIOS:
+- [VEJA OS EXECUTÁVEIS](https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON+topic:EXE)
+- [VEJA OS INSTALADORES](https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON+topic:INSTALLER)
 
